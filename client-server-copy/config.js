@@ -4,5 +4,5 @@ module.exports = {
     user: 'root',
     password: 'manager',
     database: 'projectdb',
-    secret: 'tjgInw4hMeWdiJyL1WhiB6SjImGnJmRF',
+    secret: 'eWdtjgInw4hMiJyL1WhiB6SjImGnJmRF',
   }
